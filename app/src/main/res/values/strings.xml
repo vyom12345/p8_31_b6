@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p8_31_b6</string>
+    <string name="mpractical">MAD_ALARM_PRACTICAL</string>
+    <string name="txt_alarmtitle1">Create Alarm Time</string>
+    <string name="txt_alarmtitle2">By pressing buttons, Alarm can be created and cancelled.</string>
+    <string name="txt_alarmtitle3">Check Current time by looking below real digital clock.</string>
+</resources>
